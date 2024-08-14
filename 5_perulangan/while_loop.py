@@ -10,4 +10,3 @@ number = 7
 while number > 0:
     print(number)
     number = number - 1
-    # 4
